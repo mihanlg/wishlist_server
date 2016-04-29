@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:wishlist_server.xcodeproj">
+      location = "self:server_boost.xcodeproj">
    </FileRef>
 </Workspace>

@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "56839EC51CB481AB00F839EE"
-               BuildableName = "wishlist_server"
-               BlueprintName = "wishlist_server"
-               ReferencedContainer = "container:wishlist_server.xcodeproj">
+               BlueprintIdentifier = "56612BEE1CC61BDB009ECA4F"
+               BuildableName = "server_boost"
+               BlueprintName = "server_boost"
+               ReferencedContainer = "container:server_boost.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "56839EC51CB481AB00F839EE"
-            BuildableName = "wishlist_server"
-            BlueprintName = "wishlist_server"
-            ReferencedContainer = "container:wishlist_server.xcodeproj">
+            BlueprintIdentifier = "56612BEE1CC61BDB009ECA4F"
+            BuildableName = "server_boost"
+            BlueprintName = "server_boost"
+            ReferencedContainer = "container:server_boost.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,12 +55,18 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "56839EC51CB481AB00F839EE"
-            BuildableName = "wishlist_server"
-            BlueprintName = "wishlist_server"
-            ReferencedContainer = "container:wishlist_server.xcodeproj">
+            BlueprintIdentifier = "56612BEE1CC61BDB009ECA4F"
+            BuildableName = "server_boost"
+            BlueprintName = "server_boost"
+            ReferencedContainer = "container:server_boost.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <CommandLineArguments>
+         <CommandLineArgument
+            argument = "192.168.1.33:8880"
+            isEnabled = "YES">
+         </CommandLineArgument>
+      </CommandLineArguments>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -74,10 +80,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "56839EC51CB481AB00F839EE"
-            BuildableName = "wishlist_server"
-            BlueprintName = "wishlist_server"
-            ReferencedContainer = "container:wishlist_server.xcodeproj">
+            BlueprintIdentifier = "56612BEE1CC61BDB009ECA4F"
+            BuildableName = "server_boost"
+            BlueprintName = "server_boost"
+            ReferencedContainer = "container:server_boost.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
